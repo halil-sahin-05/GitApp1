@@ -4,6 +4,9 @@ public class Runner {
         // versiyon 1
 
         System.out.println("hello git");
-        System.out.println( "git add . : staging aeaya alır");
+        System.out.println( "git add . : staging areya alır");
+
+        //versiyon2
+        System.out.println("git commit -m\"\" ile versiyon oluşturulur");
     }
 }

@@ -1,6 +1,7 @@
 public class Runner {
     public static void main(String[] args) {
 
+
         // versiyon 1
 
         System.out.println("hello git");
@@ -8,5 +9,12 @@ public class Runner {
 
         //versiyon2
         System.out.println("git commit -m\"\" ile versiyon oluşturulur");
+
+        //versiyon 8
+        System.out.println(" ");
+
+
+        ///////////
+
     }
 }
